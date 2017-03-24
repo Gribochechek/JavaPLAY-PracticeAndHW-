@@ -1,4 +1,4 @@
-package sakh.roman.lection05PracticeGrafics;
+package sakhroman.lection05PracticeGrafics;
 import java.awt.Color;
 
 import acm.graphics.GLabel;
