@@ -4,12 +4,14 @@ public interface ServiceStation {
 
 	void receiveCarforService();
 
+	void checkCompleteness();
+
 	void washCar();
+
+	void changeOil();
 
 	void repairCar();
 
 	void checkTirePressure();
-
-	void changeOil();
 
 }

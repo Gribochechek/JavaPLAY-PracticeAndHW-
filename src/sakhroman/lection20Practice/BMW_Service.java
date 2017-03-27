@@ -2,6 +2,13 @@ package sakhroman.lection20Practice;
 
 public class BMW_Service implements ServiceStation {
 
+	
+	
+	
+	public BMW_Service(VehicleType vehicleType, String modelNum, double currentTirePresuure, int tireRadius) {
+		// TODO Auto-generated constructor stub
+	}
+
 	@Override
 	public void washCar() {
 		// TODO Auto-generated method stub
@@ -29,6 +36,12 @@ public class BMW_Service implements ServiceStation {
 
 	@Override
 	public void receiveCarforService() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void checkCompleteness() {
 		// TODO Auto-generated method stub
 
 	}
